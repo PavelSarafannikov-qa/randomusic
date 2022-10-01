@@ -1,3 +1,3 @@
-config.py - Telegram your token
+Программа для выборки рандомной музыки из колпшлекции
 
-![preview](preview.gif)gi
+![preview](preview.gif)
